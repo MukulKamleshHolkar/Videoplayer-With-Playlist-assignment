@@ -1,0 +1,13 @@
+.Navbar1{
+    background: rgb(30, 30, 30);
+    color:yellow;
+   overflow: hidden;
+   height: 60px;
+   border-bottom: 200px;
+   border-color: white;
+}
+.Navbar1.navbartitle.Title>span{
+   
+    margin-top: 300px;
+}
+
